@@ -1,0 +1,21 @@
+
+.sidebar-heading {
+    font-size: 16px !important;
+}
+
+@media (min-width: 1200px){
+    .sidebar {
+        width: 20.83333333% !important;
+    }
+    .page {
+        padding-left: 20.83333333% !important;
+    }
+}
+@media (min-width: 1600px) {
+    .sidebar {
+        width: 16.66666667% !important;
+    }
+    .page {
+        padding-left: 16.66666667% !important;
+    }
+}
